@@ -1,0 +1,24 @@
+{ "name": " Data Science with Python Course", "duration": "Duration:  3months", "development_stack": "Language: Python; IDE: Anaconda", "pricing": "$32.89", "img_src": "" }
+{ "name": "Artificial Intelligence", "duration": "Duration:  6months",  "development_stack": "Language: Python; IDE: Anaconda", "pricing": "$40.75", "img_src": "" }
+{ "name": "BlockChain", "duration": "Duration:  5months", "development_stack": "Languages: Java, C++, Javascript and Python ; IDE: Geth", "pricing": "$20.05", "img_src": "" }
+{ "name": "Graphic Design", "duration": "Duration:  3months", "development_stack": "Language: Python; IDE: Anaconda", "pricing": "$15.59", "img_src": "" }
+{ "name": "Machine Learning", "duration": "Duration:  9months", "development_stack": "Language: Python; IDE: Rodeo", "pricing": "$25.49", "img_src": "" }
+{ "name": "Data Analytics", "duration": "Duration:  3months", "development_stack": "Languages: Python,SQL, R ; IDE: Anaconda", "pricing": "$17.59", "img_src": "" }
+{ "name": "Wed Development", "duration": "Duration:  6months", "development_stack": "Languages: JavaScript, PHP, Java; IDE:Visua Studio Code", "pricing": "$54.45", "img_src": "" }
+{ "name": "Introduction to Cisco Networking",  "duration": "Duration:  3months",  "development_stack": "IDE: Cisco Packet Tracer",  "pricing": "Free,Paid", "img_src": "" }
+{ "name": "Internet of Things", "duration": "Duration:  3months", "development_stack": "Languages: Python, Swift, Java,JavaScript; IDE:Arduino", "pricing": "$34.55", "img_src": "" }
+{ "name": "Digital Marketing", "duration": "Duration:  3months", "development_stack": "Language: Java;  IDE: Eclipse", "pricing": "$17.59", "img_src": "" }
+{ "name": "Content Creation", "duration": "Duration:  11months", "development_stack": "Tools: Canva,Adobe Spark", "pricing": "$35.6", "img_src": "" }
+{ "name": "Intoduction to Game Development", "duration": "Duration:  3months", "development_stack": "Languages: C++, JavaScript,Java ; IDE:  GameMaker: Studio", "pricing": "$9.35", "img_src": "" }
+{ "name": "Mobile App Development", "duration": "Duration:  9months", "development_stack": "Language:Android; IDE:  Android Studio ", "pricing": "Free,Paid", "img_src": "" }
+{ "name": "Python Programming", "duration": "Duration:  7months", "development_stack": "Language: Python; IDE:Anaconda", "pricing": "$32.49", "img_src": "" }
+{ "name": "Introduction to Coding", "duration": "Duration:  7months", "development_stack": "Languages: Java,C++; IDE: DevC++", "pricing": "$20.05", "img_src": "" }
+{ "name": "Computer Networking", "duration": "Duration:  7months", "development_stack": "Language:Java ; IDE: Cisco Packet Tracer", "pricing": "$54.45", "img_src": "" }
+{ "name": "Software Engineering", "duration": "Duration:  7months", "development_stack": "Language: java;  ", "pricing": "$40.75", "img_src": " " }
+{"name": "Robotics","duration": "Duration:  3months","development_stack": "Languages: C++, Pyton; IDE: CodeBlocks", "pricing": "$32.89", "img_src": "" }
+{ "name": "Java Programming", "duration": "Duration:  3months", "development_stack": "Language: Java; IDE: Eclipse", "pricing": "Free,Paid", "img_src": "" }
+{ "name": "Cyber Security", "duration": "Duration:  3months", "development_stack": "Language:Python;  Tool:Gnu PG", "pricing": "$40.75", "img_src": "" }
+{ "name": "Database Administration", "duration": "Duration:  6months",  "development_stack": "Language: SQL; IDE; MySql",  "pricing": "$25.49", "img_src": "" }
+{ "name": "Embedded Systems", "duration": "Duration:  6months", "development_stack": "Languages: Java,C++  ; IDE:gcc,IntelliJ Idea ", "pricing": "$20.5", "img_src": "" }
+{ "name": "Information Security", "duration": "Duration:  6months", "development_stack": "Language:Python;  Tool:Gnu PG", "pricing": "$53.9", "img_src": "" }
+{ "name": "Coding for kids", "duration": "Duration:  6months", "development_stack": "Language:C++; IDE: DevC++", "pricing": "$23.99", "img_src": "" }

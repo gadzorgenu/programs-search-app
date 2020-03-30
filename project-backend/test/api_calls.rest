@@ -1,0 +1,22 @@
+###
+# Get all programs
+GET http://localhost:3001/programs
+Content-Type: application/json
+
+###
+# Search programs
+GET http://localhost:3001/programs/org
+Content-Type: application/json
+
+###
+# Add program
+
+POST http://localhost:3001/programs
+Content-Type: application/json
+
+{
+    "name": "cool Intelligence",
+    "duration": 60,
+    "development_stack": "Full",
+    "pricing": 700
+}
